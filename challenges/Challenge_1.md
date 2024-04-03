@@ -1,6 +1,6 @@
-# Challenge 1: Profile Activation
+ Challenge 1: Profile Activation
 
-A company's website has many user profiles. These profiles can either be active (i.e., they can use the website) or inactive. A profile can be set to inactive for a variety of reasons, and the company wants to have the reasons recorded for analytical purposes. If an inactive profile is set back to active, the reason for the inactivity is no longer needed and can be removed.
+A company's website has many user profiles. These profiles can either be active (i.e., they can use the website) or inactive. A profile can be set to inactive for a variety of reasons, and the company wants to have the reasons recorded for analytical purposes. If an inactive pr#ofile is set back to active, the reason for the inactivity is no longer needed and can be removed.
 
 ### Objective 
 Implement the profileActivation function to manage the activation status of user profiles on a company's website. This function will toggle a profile's active status and handle reasons for inactivity.
